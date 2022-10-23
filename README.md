@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Robin, a software engineer from Ghent, Belgium. I'm passionate about design & code.
 - 🔭 I’m currently working on chatbots for Chatlayer by Sinch, mostly using TypeScript and even some Go in our stack.
-- 🌱 I’m currently learning more Go, Kotlin and GCP / AWS.
+- 🌱 I’m currently learning more Go, Haskell and Kotlin / Android.
 - 👯 I’m looking to collaborate on some cool open source things with one of my favorite languages.
 - 💬 Ask me about JavaScript, TypeScript, web applications... and much more!
 - 📫 How to reach me: [Twitter](https://twitter.com/robinvenneman)

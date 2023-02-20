@@ -1,12 +1,12 @@
 ### Hi there 👋
 I'm Robin, a software engineer from Ghent, Belgium. I'm passionate about design & code.
-- 🔭 I’m currently working on chatbots for Chatlayer by Sinch, mostly using TypeScript and even some Go in our stack.
+- 🔭 I’m currently working on chatbots and more at Sinch, mostly using TypeScript and even some Go in our stack.
 - 🌱 I’m currently learning more Go, Haskell and Kotlin / Android.
 - 👯 I’m looking to collaborate on some cool open source things with one of my favorite languages.
 - 💬 Ask me about JavaScript, TypeScript, web applications... and much more!
-- 📫 How to reach me: [Twitter](https://twitter.com/robinvenneman)
+- 📫 How to reach me: [Twitter](https://twitter.com/robinvenneman) [Mastodon](https://mas.to/@robinv)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I also enjoy working out, reading, gaming, watching movies, listening to music... 
+- ⚡ Fun fact: I'm also into fitness, martial arts, yoga, movies, music... 
 
 <!--
 **robinv85/robinv85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Robin, a software engineer from Ghent, Belgium. I'm passionate about design & code.
-- 🔭 I’m currently working at Sinch, working on Conersational AI (chatbots) with Go, TypeScript, Node.js and React.
+- 🔭 I’m currently working at Sinch, working on Conversational AI (chatbots) with Go, TypeScript, Node.js and React.
 - 🌱 I’m currently learning Haskell, Kotlin / Android, and Rust.
 - 👯 I’m looking to collaborate on some cool open source things with one of my favorite languages.
 - 💬 Ask me about Go, JavaScript & TypeScript, web apps... and much more!

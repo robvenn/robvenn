@@ -1,12 +1,12 @@
 ### Hi there 👋
 I'm Robin, a software engineer from Ghent, Belgium. I'm passionate about design & code.
-- 🔭 I’m currently working at Sinch, working on Conversational AI (chatbots) with Go, TypeScript, Node.js and React.
-- 🌱 I’m currently learning Haskell, Kotlin / Android, and Rust.
+- 🔭 I’m currently working at LEGALFLY, working on legal AI as back-end engineer.
+- 🌱 I’m currently learning Rust & Kotlin multiplatform.
 - 👯 I’m looking to collaborate on some cool open source things with one of my favorite languages.
-- 💬 Ask me about Go, JavaScript & TypeScript, web apps... and much more!
-- 📫 How to reach me: [Twitter](https://twitter.com/robinvenneman) [Mastodon](https://mas.to/@robinv)
+- 💬 Ask me about Go & TypeScript, web apps... and much more!
+- 📫 How to reach me: [BlueSky]([https://bsky.app/profile/robvenn.bsky.social]) [Mastodon](https://mas.to/@robinv)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: My definition of fun often consists of a good workout session and I also do some coaching besides my work as a developer (I regularly coach classes in boxing / Thaiboxing and even some Crossfit 😄)
+- ⚡ Fun fact: My definition of fun often consists of a good workout session and I also do some coaching besides my work as a developer (I regularly coach classes in boxing / Thaiboxing and even some CrossFit 😄)
 
 <!--
 **robvenn/robvenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

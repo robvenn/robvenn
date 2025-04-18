@@ -1,10 +1,10 @@
 ### Hi there 👋
 I'm Robin, a software engineer from Ghent, Belgium. I'm passionate about design & code.
-- 🔭 I’m currently working at LEGALFLY, working on legal AI as back-end engineer.
+- 🔭 I’m currently working at [LEGALFLY](https://www.legalfly.com/), working on legal AI as back-end engineer.
 - 🌱 I’m currently learning Rust & Kotlin multiplatform.
 - 👯 I’m looking to collaborate on some cool open source things with one of my favorite languages.
 - 💬 Ask me about Go & TypeScript, web apps... and much more!
-- 📫 How to reach me: [BlueSky]([https://bsky.app/profile/robvenn.bsky.social]) [Mastodon](https://mas.to/@robinv)
+- 📫 How to reach me: [BlueSky](https://bsky.app/profile/robvenn.bsky.social) [Mastodon](https://mas.to/@robinv)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: My definition of fun often consists of a good workout session and I also do some coaching besides my work as a developer (I regularly coach classes in boxing / Thaiboxing and even some CrossFit 😄)
 
